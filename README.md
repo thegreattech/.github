@@ -1,7 +1,7 @@
 # 🌐 The Great Tech
 
 <p align="center">
-  <img src="https://www.thegreattech.tech/assets/logo.png" alt="The Great Tech Logo" width="150"/>
+  <img src="https://www.thegreattech.tech/assets/images/greattech_logo_white.svg" alt="The Great Tech Logo" width="150"/>
 </p>
 
 <h2 align="center">Empowering Innovation, One Line of Code at a Time 🚀</h2>
