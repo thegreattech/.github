@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.thegreattech.tech/assets/images/greattech_logo_white.svg" alt="The Great Tech Logo" height="160"/>
+  <img src="https://www.thegreattech.tech/assets/images/greattech_logo_white.svg" alt="The Great Tech Logo" height="120"/>
 </p>
 
 <h1 align="center">🌍 The Great Tech — Global Technology Solutions</h1>
