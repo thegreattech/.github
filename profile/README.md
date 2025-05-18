@@ -43,56 +43,40 @@ We specialize in:
 <table>
   <tr>
     <td>
-      <!-- Embed Flutter icon directly -->
-      <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none">
-        <path d="M10.815 2.355L8.26 5.02l5.212 8.084 6.418-10.051-4.388-2.593-4.557 7.72L10.815 2.355z" fill="#000"/>
-      </svg>
+      <!-- Flutter icon (FontAwesome CDN) -->
+      <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/flutter.svg" width="40"/> 
       <strong>Web Development</strong><br/>HTML, CSS, JS, PHP, Laravel, WordPress
     </td>
     <td>
-      <!-- Embed HTML5 icon directly -->
-      <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none">
-        <path d="M0 3h24v18H0z" fill="none"/>
-        <path d="M8.5 14H7V7h1.5v7h3V8h1.5v9h-5z" fill="#f44336"/>
-      </svg>
+      <!-- HTML5 icon (FontAwesome CDN) -->
+      <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/html5.svg" width="40"/> 
       <strong>App Development</strong><br/>Cross-platform Flutter apps
     </td>
     <td>
-      <!-- Embed SEO icon directly -->
-      <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none">
-        <path d="M0 3h24v18H0z" fill="none"/>
-        <path d="M14.5 9h-5v6h5v-6z" fill="#4caf50"/>
-      </svg>
+      <!-- SEO icon (FontAwesome CDN) -->
+      <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/google.svg" width="40"/> 
       <strong>SEO & Ads</strong><br/>Google, Facebook, Instagram
     </td>
   </tr>
   <tr>
     <td>
-      <!-- Embed Design icon directly -->
-      <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none">
-        <path d="M0 3h24v18H0z" fill="none"/>
-        <path d="M6 19v2H4v-2h2zm0-4v2H4v-2h2zm0-4v2H4V7h2zm7-1v12H7V5h6zm2-1h5v14h-5V4zm0 16v2h2v-2h-2z" fill="#2196f3"/>
-      </svg>
+      <!-- Design icon (Heroicons CDN) -->
+      <img src="https://unpkg.com/heroicons@1.0.6/outline/academic-cap.svg" width="40"/> 
       <strong>UI/UX Design</strong><br/>Figma, Adobe XD, Responsive Interfaces
     </td>
     <td>
-      <!-- Embed Teacher icon directly -->
-      <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none">
-        <path d="M0 3h24v18H0z" fill="none"/>
-        <path d="M6 2c0-1.104.896-2 2-2h8c1.104 0 2 .896 2 2v4h4v2h-2v12H4V8H2V6h4V2zm6 0h-4v4h4V2z" fill="#ff5722"/>
-      </svg>
+      <!-- Training icon (Heroicons CDN) -->
+      <img src="https://unpkg.com/heroicons@1.0.6/outline/briefcase.svg" width="40"/> 
       <strong>Training</strong><br/>Bootcamps, Open Source, Workshops
     </td>
     <td>
-      <!-- Embed Cloud icon directly -->
-      <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none">
-        <path d="M0 3h24v18H0z" fill="none"/>
-        <path d="M18 7c1.1 0 2-.9 2-2 0-.53-.21-1.04-.57-1.41-.72-.73-1.69-1.15-2.72-1.15-1.02 0-1.99.42-2.71 1.14-.3.31-.52.69-.67 1.08-.57-.24-1.21-.39-1.84-.39-2.5 0-4.5 2-4.5 4.5 0 .91.26 1.75.72 2.46-.35.3-.61.68-.8 1.09-.93-.3-1.92-.54-2.92-.7-.2-.17-.4-.33-.61-.49C5.24 12.5 3 10.57 3 8c0-2.21 1.79-4 4-4 1.57 0 2.92.91 3.55 2.2C11.78 5.43 13.73 4 16 4c1.66 0 3 1.34 3 3z" fill="#607d8b"/>
-      </svg>
+      <!-- Cloud icon (Feather CDN) -->
+      <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/cloud.svg" width="40"/> 
       <strong>Hosting & Deployment</strong><br/>Cloudflare, Firebase, Netlify
     </td>
   </tr>
 </table>
+
 
 
 ---
