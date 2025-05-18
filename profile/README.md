@@ -1,7 +1,7 @@
-[# 🌐 The Great Tech
+# 🌐 The Great Tech
 
 <p align="center">
-  <img src="https://www.thegreattech.tech/assets/images/greattech_logo_white.svg" alt="The Great Tech Logo" width="150"/>
+  <img src="[https://www.thegreattech.tech/assets/logo.png](https://www.thegreattech.tech/assets/images/greattech_logo_white.svg)" alt="The Great Tech Logo" width="150"/>
 </p>
 
 <h2 align="center">Empowering Innovation, One Line of Code at a Time 🚀</h2>
@@ -101,7 +101,8 @@ We’re always open to new partnerships, projects, and collaborations. Whether y
 
 📧 Email: contact@thegreattech.tech  
 🌐 Website: [www.thegreattech.tech](https://www.thegreattech.tech)  
-📞 WhatsApp: [+91-7889528326]  
+📞 WhatsApp: [+91-XXXXXXXXXX]  
+🐦 Twitter: [@TheGreatTechHQ](https://twitter.com/TheGreatTechHQ)
 
 ---
 
@@ -118,4 +119,3 @@ We’re always open to new partnerships, projects, and collaborations. Whether y
 <p align="center">
   ⭐ Star this repository to support us and stay updated on our latest innovations.
 </p>
-](https://www.thegreattech.tech/assets/images/greattech_logo_white.svg)
