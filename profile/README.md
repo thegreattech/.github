@@ -42,7 +42,7 @@ We specialize in:
 
 <table>
   <tr>
-    <td><img src="https://www.svgrepo.com/show/384425/code-web.svg" width="40"/> <strong>Web Development</strong><br/>HTML, CSS, JS, PHP, Laravel, WordPress</td>
+    <td><img src="https://www.svgrepo.com/svg/384690/application-coding-web-code-write" width="40"/> <strong>Web Development</strong><br/>HTML, CSS, JS, PHP, Laravel, WordPress</td>
     <td><img src="https://www.svgrepo.com/show/353923/flutter.svg" width="40"/> <strong>App Development</strong><br/>Cross-platform Flutter apps</td>
     <td><img src="https://www.svgrepo.com/show/303229/seo.svg" width="40"/> <strong>SEO & Ads</strong><br/>Google, Facebook, Instagram</td>
   </tr>
