@@ -43,24 +43,24 @@ We specialize in:
 <table>
   <tr>
     <td>
-      <!-- Flutter icon (FontAwesome CDN) -->
-      <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/flutter.svg" width="40"/> 
+      <!-- Flutter icon (Direct SVG link from Feather) -->
+      <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/code.svg" width="40"/>
       <strong>Web Development</strong><br/>HTML, CSS, JS, PHP, Laravel, WordPress
     </td>
     <td>
-      <!-- HTML5 icon (FontAwesome CDN) -->
-      <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/html5.svg" width="40"/> 
+      <!-- App Development icon (Direct SVG link from Feather) -->
+      <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/phone.svg" width="40"/>
       <strong>App Development</strong><br/>Cross-platform Flutter apps
     </td>
     <td>
-      <!-- SEO icon (FontAwesome CDN) -->
-      <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/google.svg" width="40"/> 
+      <!-- SEO icon (Direct SVG link from Feather) -->
+      <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/search.svg" width="40"/>
       <strong>SEO & Ads</strong><br/>Google, Facebook, Instagram
     </td>
   </tr>
   <tr>
     <td>
-      <!-- Design icon (Heroicons CDN) -->
+      <!-- UI/UX Design icon (Heroicons CDN) -->
       <img src="https://unpkg.com/heroicons@1.0.6/outline/academic-cap.svg" width="40"/> 
       <strong>UI/UX Design</strong><br/>Figma, Adobe XD, Responsive Interfaces
     </td>
@@ -76,6 +76,7 @@ We specialize in:
     </td>
   </tr>
 </table>
+
 
 
 
