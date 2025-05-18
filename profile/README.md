@@ -42,16 +42,58 @@ We specialize in:
 
 <table>
   <tr>
-    <td><img src="<svg version="1.1" id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <style type="text/css"> .st0{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} </style> <path d="M27,4H5C3.3,4,2,5.3,2,7v18c0,1.7,1.3,3,3,3h22c1.7,0,3-1.3,3-3V7C30,5.3,28.7,4,27,4z M9.1,7.6c0.1-0.1,0.1-0.2,0.2-0.3 c0.1-0.1,0.2-0.2,0.3-0.2C10,6.9,10.4,7,10.7,7.3c0.1,0.1,0.2,0.2,0.2,0.3C11,7.7,11,7.9,11,8c0,0.3-0.1,0.5-0.3,0.7 C10.5,8.9,10.3,9,10,9C9.7,9,9.5,8.9,9.3,8.7C9.1,8.5,9,8.3,9,8C9,7.9,9,7.7,9.1,7.6z M6,8c0-0.3,0.1-0.5,0.3-0.7 c0,0,0.1-0.1,0.1-0.1c0.1,0,0.1-0.1,0.2-0.1C6.7,7,6.7,7,6.8,7c0.1,0,0.3,0,0.4,0c0.1,0,0.1,0,0.2,0.1c0.1,0,0.1,0.1,0.2,0.1 c0,0,0.1,0.1,0.1,0.1c0.1,0.1,0.2,0.2,0.2,0.3C8,7.7,8,7.9,8,8c0,0.1,0,0.3-0.1,0.4C7.9,8.5,7.8,8.6,7.7,8.7C7.5,8.9,7.3,9,7,9 S6.5,8.9,6.3,8.7C6.1,8.5,6,8.3,6,8z M11.7,21.3c0.4,0.4,0.4,1,0,1.4C11.5,22.9,11.3,23,11,23s-0.5-0.1-0.7-0.3l-3-3 c-0.4-0.4-0.4-1,0-1.4l3-3c0.4-0.4,1-0.4,1.4,0s0.4,1,0,1.4L9.4,19L11.7,21.3z M12.6,8.9c-0.1-0.1-0.2-0.1-0.3-0.2 c-0.1-0.1-0.2-0.2-0.2-0.3C12,8.3,12,8.1,12,8c0-0.1,0-0.3,0.1-0.4c0.1-0.1,0.1-0.2,0.2-0.3c0.4-0.4,1-0.4,1.4,0 c0.1,0.1,0.2,0.2,0.2,0.3C14,7.7,14,7.9,14,8c0,0.1,0,0.3-0.1,0.4c-0.1,0.1-0.1,0.2-0.2,0.3C13.5,8.9,13.3,9,13,9 C12.9,9,12.7,9,12.6,8.9z M18.9,15.4l-4,8C14.7,23.8,14.4,24,14,24c-0.2,0-0.3,0-0.4-0.1c-0.5-0.2-0.7-0.8-0.4-1.3l4-8 c0.2-0.5,0.8-0.7,1.3-0.4C18.9,14.4,19.1,15,18.9,15.4z M24.7,19.7l-3,3C21.5,22.9,21.3,23,21,23s-0.5-0.1-0.7-0.3 c-0.4-0.4-0.4-1,0-1.4l2.3-2.3l-2.3-2.3c-0.4-0.4-0.4-1,0-1.4s1-0.4,1.4,0l3,3C25.1,18.7,25.1,19.3,24.7,19.7z"></path> </g></svg>" width="40"/> <strong>Web Development</strong><br/>HTML, CSS, JS, PHP, Laravel, WordPress</td>
-    <td><img src="https://www.svgrepo.com/show/353923/flutter.svg" width="40"/> <strong>App Development</strong><br/>Cross-platform Flutter apps</td>
-    <td><img src="https://www.svgrepo.com/show/303229/seo.svg" width="40"/> <strong>SEO & Ads</strong><br/>Google, Facebook, Instagram</td>
+    <td>
+      <!-- Embed Flutter icon directly -->
+      <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none">
+        <path d="M10.815 2.355L8.26 5.02l5.212 8.084 6.418-10.051-4.388-2.593-4.557 7.72L10.815 2.355z" fill="#000"/>
+      </svg>
+      <strong>Web Development</strong><br/>HTML, CSS, JS, PHP, Laravel, WordPress
+    </td>
+    <td>
+      <!-- Embed HTML5 icon directly -->
+      <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none">
+        <path d="M0 3h24v18H0z" fill="none"/>
+        <path d="M8.5 14H7V7h1.5v7h3V8h1.5v9h-5z" fill="#f44336"/>
+      </svg>
+      <strong>App Development</strong><br/>Cross-platform Flutter apps
+    </td>
+    <td>
+      <!-- Embed SEO icon directly -->
+      <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none">
+        <path d="M0 3h24v18H0z" fill="none"/>
+        <path d="M14.5 9h-5v6h5v-6z" fill="#4caf50"/>
+      </svg>
+      <strong>SEO & Ads</strong><br/>Google, Facebook, Instagram
+    </td>
   </tr>
   <tr>
-    <td><img src="https://www.svgrepo.com/show/303492/design.svg" width="40"/> <strong>UI/UX Design</strong><br/>Figma, Adobe XD, Responsive Interfaces</td>
-    <td><img src="https://www.svgrepo.com/show/378636/teacher.svg" width="40"/> <strong>Training</strong><br/>Bootcamps, Open Source, Workshops</td>
-    <td><img src="https://www.svgrepo.com/show/490420/cloud.svg" width="40"/> <strong>Hosting & Deployment</strong><br/>Cloudflare, Firebase, Netlify</td>
+    <td>
+      <!-- Embed Design icon directly -->
+      <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none">
+        <path d="M0 3h24v18H0z" fill="none"/>
+        <path d="M6 19v2H4v-2h2zm0-4v2H4v-2h2zm0-4v2H4V7h2zm7-1v12H7V5h6zm2-1h5v14h-5V4zm0 16v2h2v-2h-2z" fill="#2196f3"/>
+      </svg>
+      <strong>UI/UX Design</strong><br/>Figma, Adobe XD, Responsive Interfaces
+    </td>
+    <td>
+      <!-- Embed Teacher icon directly -->
+      <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none">
+        <path d="M0 3h24v18H0z" fill="none"/>
+        <path d="M6 2c0-1.104.896-2 2-2h8c1.104 0 2 .896 2 2v4h4v2h-2v12H4V8H2V6h4V2zm6 0h-4v4h4V2z" fill="#ff5722"/>
+      </svg>
+      <strong>Training</strong><br/>Bootcamps, Open Source, Workshops
+    </td>
+    <td>
+      <!-- Embed Cloud icon directly -->
+      <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none">
+        <path d="M0 3h24v18H0z" fill="none"/>
+        <path d="M18 7c1.1 0 2-.9 2-2 0-.53-.21-1.04-.57-1.41-.72-.73-1.69-1.15-2.72-1.15-1.02 0-1.99.42-2.71 1.14-.3.31-.52.69-.67 1.08-.57-.24-1.21-.39-1.84-.39-2.5 0-4.5 2-4.5 4.5 0 .91.26 1.75.72 2.46-.35.3-.61.68-.8 1.09-.93-.3-1.92-.54-2.92-.7-.2-.17-.4-.33-.61-.49C5.24 12.5 3 10.57 3 8c0-2.21 1.79-4 4-4 1.57 0 2.92.91 3.55 2.2C11.78 5.43 13.73 4 16 4c1.66 0 3 1.34 3 3z" fill="#607d8b"/>
+      </svg>
+      <strong>Hosting & Deployment</strong><br/>Cloudflare, Firebase, Netlify
+    </td>
   </tr>
 </table>
+
 
 ---
 
