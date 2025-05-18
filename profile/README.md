@@ -84,9 +84,10 @@ We specialize in:
 
 ## 🧑‍💼 Trusted By
 
-- ✅ [StressOut Tours](https://stressouttours.com)
-- ✅ [Pursukoon Villa](https://pursukoonvilla.live)
-- ✅ [WCW Society](https://wcwsociety.org.in)
+- ✅ [Applause Kashmir](https://www.applausekashmir.in/)
+- ✅ [StressOut Tours](https://stressouttours.com/)
+- ✅ [Pursukoon Villa](https://pursukoonvilla.live/)
+- ✅ [WCW Society](https://wcwsociety.org.in/)
 - ✅ Startups, Nonprofits, and International Brands
 
 ---
