@@ -139,7 +139,7 @@ We proudly run a **tech community** where we:
 - Guide students to build real-world projects
 - Share open-source tools
 
-> Visit 👉 [https://www.thegreattech.tech](https://www.thegreattech.tech)
+> Visit 👉 [thegreattech](https://www.thegreattech.github.io)
 
 ---
 
