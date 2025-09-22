@@ -147,8 +147,8 @@ We proudly run a **tech community** where we:
 
 We’re always open to collaboration, freelancing, partnerships, or mentorship.
 
-📧 Email: **contact@thegreattech.tech**  
-🌐 Website: [https://www.thegreattech.tech](https://www.thegreattech.tech)  
+📧 Email: **THEGREATTECHOFFICIAL@GMAIL.COM**  
+🌐 Website: [thegreattech](https://www.thegreattech.github.io)  
 📱 WhatsApp: +91-7889528326  
 
 
