@@ -161,7 +161,11 @@ We’re always open to collaboration, freelancing, partnerships, or mentorship.
 <p align="center">
   <img src="https://raw.githubusercontent.com/maqsoodhussain/images/main/team-banner.png" width="80%" />
 </p>
-
+<img src="https://maqsoodhussain.github.io/mca/assets/whatsappqr.png" alt="WhatsApp Group QR Code" class="img-fluid rounded-3 border shadow-sm" style="max-width: 200px;">
+<p class="text-muted small mb-3">Scan the QR code or click the button below to join.</p>
+<a href="https://chat.whatsapp.com/DX8Yts44nyWFWg7e0bKg5N?mode=ems_copy_t" target="_blank" class="btn btn-success px-4 py-2 rounded-pill shadow-sm">
+                        <i class="fab fa-whatsapp me-2"></i> Join WhatsApp Group
+                    </a>
 <p align="center">
   ❤️ If you like our work, star this repo and connect with us.
 </p>
