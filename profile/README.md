@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.thegreattech.tech/assets/images/greattech_logo_white.svg" alt="The Great Tech Logo" height="120"/>
+  <img src="https://thegreattech.github.io/assets/images/greattech_logo_white.svg" alt="The Great Tech Logo" height="120"/>
 </p>
 
 <h1 align="center">🌍 The Great Tech — Global Technology Solutions</h1>
@@ -85,9 +85,9 @@ We specialize in:
 ## 🧑‍💼 Trusted By
 
 - ✅ [Applause Kashmir](https://www.applausekashmir.in/)
-- ✅ [StressOut Tours](https://stressouttours.com/)
-- ✅ [Pursukoon Villa](https://pursukoonvilla.live/)
-- ✅ [WCW Society](https://wcwsociety.org.in/)
+- ✅ [StressOut Tours](https://maqsoodhussain.github.io/stressouttours/)
+- ✅ [Pursukoon Villa](https://pursukoonvilla.in/)
+- ✅ [WCW Society](https://maqsoodhussain.github.io/wcwsociety/)
 - ✅ Startups, Nonprofits, and International Brands
 
 ---
