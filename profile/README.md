@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.thegreattech.tech"><img alt="Website" src="https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-  <a href="mailto:contact@thegreattech.tech"><img alt="Email" src="https://img.shields.io/badge/Contact-Email-green?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://thegreattech.github.io/"><img alt="Website" src="https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="mailto:thegreattechofficial@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Contact-Email-green?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://github.com/thegreattech"><img alt="GitHub" src="https://img.shields.io/badge/Follow-GitHub-black?style=for-the-badge&logo=GitHub"/></a>
 </p>
 
@@ -139,7 +139,7 @@ We proudly run a **tech community** where we:
 - Guide students to build real-world projects
 - Share open-source tools
 
-> Visit 👉 [thegreattech](https://www.thegreattech.github.io)
+> Visit 👉 [thegreattech](https://thegreattech.github.io/)
 
 ---
 
@@ -148,7 +148,7 @@ We proudly run a **tech community** where we:
 We’re always open to collaboration, freelancing, partnerships, or mentorship.
 
 📧 Email: **THEGREATTECHOFFICIAL@GMAIL.COM**  
-🌐 Website: [thegreattech](https://www.thegreattech.github.io)  
+🌐 Website: [thegreattech](https://thegreattech.github.io/)  
 📱 WhatsApp: +91-7889528326  
 
 
