@@ -159,13 +159,9 @@ We’re always open to collaboration, freelancing, partnerships, or mentorship.
 > “Great software is not built by chance. It’s built by **The Great Tech**.”
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maqsoodhussain/images/main/team-banner.png" width="80%" />
+  <img src="https://camo.githubusercontent.com/694db8739c838a973de7278fb31ab3990dcc8e8bac10c32ef36609193ab55949/68747470733a2f2f7468656772656174746563682e6769746875622e696f2f6173736574732f696d616765732f6772656174746563685f6c6f676f5f77686974652e737667" width="80%" />
 </p>
-<img src="https://maqsoodhussain.github.io/mca/assets/whatsappqr.png" alt="WhatsApp Group QR Code" class="img-fluid rounded-3 border shadow-sm" style="max-width: 200px;">
-<p class="text-muted small mb-3">Scan the QR code or click the button below to join.</p>
-<a href="https://chat.whatsapp.com/DX8Yts44nyWFWg7e0bKg5N?mode=ems_copy_t" target="_blank" class="btn btn-success px-4 py-2 rounded-pill shadow-sm">
-                        <i class="fab fa-whatsapp me-2"></i> Join WhatsApp Group
-                    </a>
+
 <p align="center">
   ❤️ If you like our work, star this repo and connect with us.
 </p>
